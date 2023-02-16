@@ -12,7 +12,7 @@ name: Java CI
 on:
   push:
     branches:
-      - "java_lowercase"
+      - "main"
 
 jobs:
   build:
